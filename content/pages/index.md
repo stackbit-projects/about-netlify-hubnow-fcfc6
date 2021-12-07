@@ -8,7 +8,6 @@ sections:
       - label: Learn More
         url: 'http://54.161.149.9.nip.io/disclaimer/'
         style: primary
-    image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
