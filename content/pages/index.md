@@ -21,8 +21,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
+      - image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
         image_alt: Logo 2
