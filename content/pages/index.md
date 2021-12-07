@@ -19,27 +19,6 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    title: Why Choose YourGoal?
-    features:
-      - title: Achieve Your Goals With Your Friends
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    background_color: none
-  - type: features_section
     features: []
     feature_padding_vert: small
     background_color: none
