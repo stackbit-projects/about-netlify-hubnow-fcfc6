@@ -6,7 +6,8 @@ sections:
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Learn More
-        url: 'http://54.161.149.9.nip.io/disclaimer/'
+        url: >-
+          https://groups.google.com/g/targeted-visitors/c/8HvJwXSKQHA/m/NseI_TsVCAAJ
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
