@@ -44,11 +44,6 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: >-
-      <h2 class="section__title mt-0" contenteditable="true"><a
-      href="https://www.targetedwebtraffic.com/how-it-works/">How it
-      works</a></h2> <div id="gtx-trans" style="position: absolute; left: -15px;
-      top: 34.6875px;">&nbsp;</div>
     grid_items:
       - title: What to Do
         title_align: left
