@@ -55,7 +55,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: Startup by the US Small Business - Targeted Visitors
-  description: 'Startup by the US Small Business '
+  description: >
+    Startup by the US Small Business Center (USSBA): A business that is
+    generally centered around technology and has high growth potential.
   extra:
     - name: 'og:type'
       value: website
