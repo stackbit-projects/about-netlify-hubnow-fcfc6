@@ -55,7 +55,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Startup by the US Small Business - Targeted Visitors
-  description: The preview of the Startup theme
+  description: 'Startup by the US Small Business '
   extra:
     - name: 'og:type'
       value: website
