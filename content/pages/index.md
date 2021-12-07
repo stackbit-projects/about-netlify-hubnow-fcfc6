@@ -62,10 +62,7 @@ sections:
   - type: cta_section
     title: Ready to get started?
     content: Start achieving your goals today!
-    actions:
-      - label: Try for free
-        url: /thank-you
-        style: primary
+    actions: []
     actions_width: fourty
     align: center
     padding_top: large
