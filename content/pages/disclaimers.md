@@ -1,5 +1,5 @@
 ---
-title: disclaimers
+title: Disclaimers
 seo:
   title: ''
   description: ''
