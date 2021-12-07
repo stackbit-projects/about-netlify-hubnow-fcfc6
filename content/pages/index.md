@@ -5,7 +5,7 @@ sections:
     title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: 'Lean '
+      - label: Learn More
         url: /pricing
         style: primary
     image: images/hero.svg
