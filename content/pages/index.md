@@ -21,21 +21,6 @@ sections:
   - type: features_section
     title: Why Choose YourGoal?
     features:
-      - title: All the Activity Data You Need to Improve Yourself
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/feature-1.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
           Friends are an integral part of our life, a true friend can motivate
