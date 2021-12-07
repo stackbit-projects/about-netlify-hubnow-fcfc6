@@ -43,49 +43,6 @@ sections:
     features: []
     feature_padding_vert: small
     background_color: none
-  - type: grid_section
-    grid_items:
-      - title: What not to do
-        title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
-        content_align: left
-        image: images/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Activity streak
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        image: images/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Your Progress
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        image: images/icon-4.svg
-        image_alt: Section item 4 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    align: center
-    background_color: none
   - type: blog_feed_section
     title: What's New
     blog_feed_cols: three
