@@ -6,7 +6,7 @@ sections:
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Learn More
-        url: /pricing
+        url: 'http://54.161.149.9.nip.io/disclaimer/'
         style: primary
     image: images/hero.svg
     image_alt: Hero section placeholder image
